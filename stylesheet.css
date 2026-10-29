@@ -14,15 +14,6 @@ body {
     text-align: center;
 }
 
-/* Style every element with class="section" */
-.section {
-    background-color: white;
-    margin: 20px 0;
-    padding: 20px;
-    border: 1px solid #070707;
-    border-radius: 8px;
-}
-
 /* Style all second-level headings */
 h2 {
     color: #bf5700;
